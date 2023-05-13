@@ -1,8 +1,10 @@
 # chat-react-node-express
-chat con node, express, react y socketio
+Esta es un chat creado con node, express, react y socketio
 
-primero hacer un build del cliente 
+Pasos para poder ejecutar en local
 
-pasar el build al server, ya que con express se servimos los archivos estáticos
+Primero hacer un build del cliente 
+
+Pasar el build al server, ya que con express servimos los archivos estáticos
 
 link de la aplicacion: https://react-chat-anr.herokuapp.com/
